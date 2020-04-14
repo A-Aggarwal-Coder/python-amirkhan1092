@@ -1,0 +1,9 @@
+import turtle
+ash_turtle = turtle.Turtle()
+ash_turtle.forward(100)
+ash_turtle.right(90)
+ash_turtle.forward(100)
+ash_turtle.right(90)
+ash_turtle.forward(100)
+ash_turtle.right(90)
+ash_turtle.forward(100)
